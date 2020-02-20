@@ -32,6 +32,7 @@ p{
 }
 section{
     height: 500px;
+    overflow: hidden;
 }
 .link-button{
     text-decoration: none;
