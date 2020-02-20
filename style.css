@@ -12,7 +12,7 @@ h2{
 p{
     color: dimgray;
 }
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -32,6 +32,7 @@ p{
 }
 section{
     height: 500px;
+    overflow: hidden;
 }
 .link-button{
     text-decoration: none;
@@ -46,4 +47,7 @@ section{
     background-repeat: no-repeat;
     background-position: right;
    
+}
+.single-experience{
+    box-shadow: 10px 10px ;
 }
